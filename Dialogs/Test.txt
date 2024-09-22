@@ -1,0 +1,16 @@
+[speaker:神秘人]你好，健康，压力，灵力
+[speaker:神秘人]你现在有[get:health]健康
+[speaker:神秘人][lspeed:0.2]指点江山[pause:1]激扬文字
+[speaker:神秘人][shake][lspeed:0.01]粪土当年万户侯[pause:10]曾记否
+action#你是谁？&我喜欢你
+	1#[set:health -= 100] [speaker:旁白]我是旁白，给你一拳
+
+	2#[speaker:旁白]嗷嗷，我也喜欢你
+好好好
+action#我有多少块钱？
+	1#[speaker:旁白]你现在有[get:money]块钱
+好好好
+judg#health == -100
+	2#你健康不等于0
+	1#哈哈哈
+end#

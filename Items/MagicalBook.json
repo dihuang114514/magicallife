@@ -1,0 +1,16 @@
+{
+	"can_drop": true,
+	"can_hide": true,
+	"can_stack": true,
+	"can_use": false,
+	"description": "This is my item",
+	"effect": {
+		"health": "100#desc/100#to_float/health#$#passive"
+	},
+	"identifier": "ml:MagicalBook",
+	"equipment": true,
+	"max_price": 0,
+	"min_price": 0,
+	"name": "MagicalBook",
+	"texture": ""
+}

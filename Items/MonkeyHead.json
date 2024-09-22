@@ -1,0 +1,15 @@
+{
+	"can_drop": true,
+	"can_hide": true,
+	"can_use": true,
+	"description": "猴头",
+	"effect": {
+	},
+	"equipment": false,
+	"identifier": "ml:MonkeyHead",
+	"max_price": 500,
+	"min_price": 100,
+	"name": "MonkeyHead",
+	"stackable": true,
+	"texture": "Textures/MonkeyHead.png"
+}

@@ -1,0 +1,20 @@
+{
+    "identifier": "ml:main",
+    "quantity": 12,
+    "tiers": [
+        {
+            "item": "ml:MonkeyHead",
+            "quantity": {
+                "min": 1,
+                "max": 10
+            }
+        },
+        {
+            "item": "ml:MagicalBook",
+            "quantity": {
+                "min": 1,
+                "max": 1
+            }
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "medium": {
+        "id": "ml:medium_mode",
+        "type": 0,
+        "quantity": 6,
+        "innate": [
+            "天弃之子：你是一位天生受人唾弃的人，幸运-50，声望-20#desc/luck#-50#passive/prestige#-20#passive",
+            "天选之子：你是一位天生受人爱戴的人，幸运+50，声望+20#desc/luck#50#passive/prestige#20#passive"
+        ]
+    },
+    "assign_attributes": {
+        "id": "ml:assign_attributes_mode",
+        "type": 1,
+        "available_credits": 20
+    },
+    "difficult": {
+        "id": "ml:difficult_mode",
+        "type": 2,
+        "description": "这将是苦难的人生。\n健康值与压力值的设定被废除。\n随时随地都可能有什么离奇的原因夺去你的生命。\n请小心，一旦死亡，存档就会删除"
+    }
+}

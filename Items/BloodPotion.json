@@ -1,0 +1,16 @@
+{
+	"can_drop": true,
+	"can_hide": true,
+	"can_use": true,
+	"description": "我很好！",
+	"effect": {
+		"health": "10#desc/10#to_float"
+	},
+	"equipment": false,
+	"identifier": "ml:BloodPotion",
+	"max_price": 500,
+	"min_price": 100,
+	"name": "BloodPotion",
+	"stackable": true,
+	"texture": ""
+}

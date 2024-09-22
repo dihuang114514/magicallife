@@ -1,0 +1,94 @@
+{
+	"normal": {
+		"dihuang": {
+			"class": 2,
+			"value": "你好呀"
+		},
+		"yee": {
+			"class": 3,
+			"value": false
+		}
+	},
+	"player_attribute": {
+		"day": {
+			"class": 0,
+			"value": 0
+		},
+		"money": {
+			"class": 1,
+			"value": 0
+		},
+		"health": {
+			"class": 0,
+			"value": 100,
+			"clamp": {
+				"min": 0,
+				"max": 100
+			}
+		},
+		"luck": {
+			"class": 1,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		},
+		"magic": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		},
+		"moral": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		},
+		"physique": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		},
+		"pressure": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0,
+				"max": 100
+			}
+		},
+		"prestige": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		},
+		"soul": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		},
+		"charm": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		},
+		"wisdom": {
+			"class": 0,
+			"value": 0,
+			"clamp": {
+				"min": 0
+			}
+		}
+	}
+}
